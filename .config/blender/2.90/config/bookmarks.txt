@@ -1,0 +1,12 @@
+[Bookmarks]
+[Recent]
+/home/juan/docs/Blender/blends/iphone/iphone11PROMAX/
+/home/juan/docs/Blender/blends/c64/
+/home/juan/docs/Blender/blends/c64/reference/
+/home/juan/docs/Blender/blends/interior/models/
+/home/juan/docs/Blender/blends/interior/
+/mnt/storage/Manjaro_Storage/Documentos/Blender/Poliigon/Texturas/
+/home/juan/docs/Blender/addons/
+/tmp/
+/home/juan/docs/Blender/blends/interior/textures/
+/home/juan/pics/walls/Vibrant/

@@ -1,0 +1,10 @@
+/home/juan/docs/Blender/blends/iphone/iphone11PROMAX/iphone11_v19(animation).blend
+/home/juan/docs/Blender/blends/c64/c64_v01.blend
+/home/juan/docs/Blender/blends/c64/c64_v00.blend
+/home/juan/docs/Blender/blends/interior/interior_v02.blend
+/home/juan/docs/Blender/blends/interior/interior_v01.blend
+/home/juan/docs/Blender/blends/interior/interior_v00.blend
+/home/juan/blender-git/BlendRef/src/ui/template.blend
+/home/juan/docs/Blender/blends/untitled.blend
+/home/juan/docs/Blender/blends/layout.blend
+/home/juan/docs/Blender/blends/abstract.blend

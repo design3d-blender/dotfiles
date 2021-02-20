@@ -1,0 +1,11 @@
+#ignore everything except .config and startupfiles
+/*
+!.*
+!/.emacs.d
+.nvidia-settings-rc
+.python-history
+!/.config
+"/.config/Code - OSS"
+/.config/BraveSoftware
+/.local/*
+!/.local/src

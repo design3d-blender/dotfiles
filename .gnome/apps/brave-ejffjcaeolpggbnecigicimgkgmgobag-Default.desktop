@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Brave Community
+Exec=/usr/lib/brave-bin/brave --profile-directory=Default --app-id=ejffjcaeolpggbnecigicimgkgmgobag
+Icon=brave-ejffjcaeolpggbnecigicimgkgmgobag-Default
+StartupWMClass=crx_ejffjcaeolpggbnecigicimgkgmgobag
+OnlyShowIn=Old;
